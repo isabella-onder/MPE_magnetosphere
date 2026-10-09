@@ -9,7 +9,7 @@ Data reduction and analysis project correlating background events detected by th
 
 This project was important in view of launching ESA's new high-energy WFI NewAthena satellite, to contribute to the determination of the most optimal orbit for observations.
 
-My results were presented at the SPIE conference on Astronomical Telescopes + Instrumentation, July 5-10 2026, and the corresponding paper is in the proceedings: 14146-293.
+Results were presented at the SPIE conference on Astronomical Telescopes + Instrumentation, July 5-10 2026, and the corresponding paper is in the proceedings: 14146-293.
 
 
 
